@@ -1,23 +1,23 @@
 {
-  "name": "package-ui",
+  "name": "simple-pack-ui",
   "version": "1.0.0",
-  "description": "",
-  "main": "dist/index.js",
+  "description": "frist simple-pack-ui",
   "type": "module",
+  "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "npx rollup -c"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PiyushShri9990/package-ui.git"
+    "url": "git+https://github.com/PiyushShri9990/simple-pack-ui.git"
   },
   "author": "Piyush Shrivastava",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PiyushShri9990/package-ui/issues"
+    "url": "https://github.com/PiyushShri9990/simple-pack-ui/issues"
   },
-  "homepage": "https://github.com/PiyushShri9990/package-ui#readme",
+  "homepage": "https://github.com/PiyushShri9990/simple-pack-ui#readme",
   "devDependencies": {
     "@rollup/plugin-babel": "^6.0.4",
     "@rollup/plugin-typescript": "^12.1.0",
