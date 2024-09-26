@@ -1,6 +1,6 @@
 {
   "name": "simple-pack-ui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "frist simple-pack-ui",
   "type": "module",
   "main": "dist/index.js",
